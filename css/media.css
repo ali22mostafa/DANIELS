@@ -1,0 +1,132 @@
+@media screen and (max-width: 1200px) and (min-width: 992px) {
+     
+
+
+
+ 
+}
+
+@media screen and (max-width: 991px) and (min-width: 768px) {
+    /* start header */
+    /* stert navbar */
+    .navbar-nav .nav-link.active::after{
+       
+        
+        
+    }
+    .navbar-nav{
+
+        background-color: #fff;
+      
+        
+
+    }
+ 
+    .navbar-nav .nav-link,.navbar-nav .nav-link.active{
+        color: black;
+        text-align: center;
+       
+        
+
+        
+    }
+
+     /* emd navbar */
+
+    /* end header */
+      /* start about  */
+      .about-item h3{
+        margin-top: 2rem;
+    }
+    /* start about  */
+
+
+
+}
+
+@media screen and (max-width: 767px) and (min-width: 600px) {
+      /* start header */
+    /* stert navbar */
+    .navbar-nav .nav-link.active::after{
+       
+        margin-left: 0px;
+        
+    }
+    .navbar-nav{
+
+        background-color: #fff;
+       
+
+    }
+    .navbar-nav .nav-link,.navbar-nav .nav-link.active{
+        color: black;
+        text-align: center;
+        
+       
+        
+        
+    }
+     /* emd navbar */
+
+    /* end header */
+      /* start about  */
+      .about-item h3{
+        margin-top: 2rem;
+    }
+    /* start about  */
+    .contact-call{
+        padding-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 599px) {
+       /* start header */
+    /* stert navbar */
+    .navbar-nav .nav-link.active::after{
+       
+        margin-left: 0px;
+        
+    }
+    .navbar-nav{
+
+        background-color: #fff;
+       
+
+    }
+    .navbar-nav .nav-link,.navbar-nav .nav-link.active{
+        color: black;
+        text-align: center;
+        
+       
+        
+        
+    }
+
+     /* emd navbar */
+     .home-item h1{
+        font-size: 1.9rem;
+      
+    
+    }
+    
+    .home-item h1 span::after{
+       
+        font-size: 2rem;
+        
+        
+        
+    }
+
+    /* end header */
+    /* start about  */
+    .about-item h3{
+        margin-top: 2rem;
+    }
+    /* start about  */
+    .contact-call{
+        padding-bottom: 20px;
+    }
+    .special-al{
+        display: none;
+    }
+}
