@@ -22,6 +22,7 @@ $(window).scroll(function(){
     let offestAbout=$("#about").offset().top
     if(scrolTop > offestAbout -50){
         $(".navbar").addClass("bg-custom")
+        
         $(".navbar").removeClass("bg-transparent")
        
     }

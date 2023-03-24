@@ -9,6 +9,8 @@
 @media screen and (max-width: 991px) and (min-width: 768px) {
     /* start header */
     /* stert navbar */
+
+   
     .navbar-nav .nav-link.active::after{
        
         
